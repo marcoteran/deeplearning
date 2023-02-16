@@ -3,7 +3,7 @@
 ## Diseño de Software inteligente
 
 ## Descripción del curso
-El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y el aprendizaje profundo. Se hará especial énfasis en las arquitecturas de redes neuronales profundas, así como los problemas prácticos asociados con su diseño, implementación, entrenamiento y despliegue. Se realizarán diferentes talleres prácticos enfocados a problemas reales con información textual e imágenes utilizando herramientas populares como Keras y TensorFlow.
+Este curso de *Deep Learning* se enfoca en proporcionar a los estudiantes una comprensión sólida de los fundamentos de la teoría y aplicación del *Deep Learning*. Los estudiantes aprenderán cómo procesar datos, trabajar con problemas de clases desbalanceadas, reducir la dimensionalidad, aplicar técnicas de regularización y utilizar diferentes algoritmos de ensamble y aprendizaje no supervisado. El curso también se enfoca en las redes neuronales, cubriendo MLP, redes convolucionales y neuronales recurrentes. Además, los estudiantes aprenderán a trabajar con series de tiempo y aplicar modelos específicos a este tipo de datos.
 ### Información de contacto
 * **Profesor:** [Marco Teran](https://marcoteran.github.io/)
 
@@ -11,6 +11,7 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 ## Contenido
 0. **Presentación del curso *Aprendizaje profundo y Series de tiempo***
 	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/00_dl_syllabus.pdf)
+	[Notes](https://github.com/marcoteran/deeplearning/raw/master/lectures/00_dl_notes_syllabus.pdf)
 
 1. **Introducción al *Deep Learning***
 	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/01_dl_introductiontodeeplearning.pdf)
@@ -19,7 +20,7 @@ El módulo presenta los tópicos fundamentales del aprendizaje no supervisado y 
 ---
 ## Proyecto de Deep learning
 Ejecutar un proyecto de Deep learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/deeplearning/raw/master/homeworks/dl_proyecto.pdf).
-* Primera entrega <sub>(**Deadline:** 25/02/2023**)</sub>
+* Primera entrega <sub>(**Deadline:** 25/02/2023)</sub>
 <!--* Primera entrega <sub>(**Deadline:** 16/03/2021->**23/03/2021** (Extended))</sub>
 * Primera y segunda entrega <sub>(**Deadline:** 08/04/2021** (Extended))</sub>-->
 
