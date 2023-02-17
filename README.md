@@ -17,6 +17,12 @@ Este curso de *Deep Learning* se enfoca en proporcionar a los estudiantes una co
 	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/01_dl_introductiontodeeplearning.pdf)
 		* **video** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn), Jeremy Howard, TED
 		* **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
+2. **Exploración de los datos**
+	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/02_dl_dataexploration.pdf)
+		* **[Norvig2009]** Peter Norvig et al. *“The Unreasonable Effectiveness of Data”* [(article)](https://static.googleusercontent.com/media/research.google.com/es//pubs/archive/35179.pdf)
+		* IPython Notebooks:
+			- Exploración de los datos [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/1.1_machinelearning_deeplearninglandscape.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/1.1_machinelearning_deeplearninglandscape.ipynb)
 ---
 ## Proyecto de Deep learning
 Ejecutar un proyecto de Deep learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/deeplearning/raw/master/homeworks/dl_proyecto.pdf).
