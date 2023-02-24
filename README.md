@@ -25,7 +25,15 @@ Este curso de *Deep Learning* se enfoca en proporcionar a los estudiantes una co
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/1.1_machinelearning_deeplearninglandscape.ipynb)
 3. **Desbalanceo de los datos**
 	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/03_dl_imbalanceddata.pdf)
+		* IPython Notebooks:
+			- Exploración de los datos [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/1.2_machinelearning_imbalanceddata.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/1.2_machinelearning_imbalanceddata.ipynb)
 
+4. **Métodos modernos de Machine Lerning**
+	* Máquinas de vectores de soporte y selección de modelos [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/04_dl_svmandmodelselection.pdf)
+		* IPython Notebooks:
+			- SVM y selección de modelos [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/1.1_machinelearning_svm_modelselection.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/1.1_machinelearning_svm_modelselection.ipynb)
 ---
 ## Proyecto de Deep learning
 Ejecutar un proyecto de Deep learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/deeplearning/raw/master/homeworks/dl_proyecto.pdf).
