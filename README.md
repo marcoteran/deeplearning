@@ -38,6 +38,10 @@ Este curso de *Deep Learning* se enfoca en proporcionar a los estudiantes una co
 		* IPython Notebooks:
 			- Árboles de decisión, Random Forests y exploración aleatorizada [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/2.2_machinelearning_decisiontreeandrandomforests.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/2.2_machinelearning_decisiontreeandrandomforests.ipynb)
+	* Aprendizaje no supervisado [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/06_dl_unsupervisedlearning.pdf)
+		* IPython Notebooks:
+			- Aprendizaje no supervisado [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/2.3_machinelearning_unsupervisedlearning.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/2.3_machinelearning_unsupervisedlearning.ipynb)
 
 ---
 ## Proyecto de Deep learning
