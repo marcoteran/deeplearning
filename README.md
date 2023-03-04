@@ -42,6 +42,8 @@ Este curso de *Deep Learning* se enfoca en proporcionar a los estudiantes una co
 		* IPython Notebooks:
 			- Aprendizaje no supervisado [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/2.3_machinelearning_unsupervisedlearning.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/2.3_machinelearning_unsupervisedlearning.ipynb)
+			-  Reducción de la dimensionalidad y aprendizaje de la representación [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/2.4_machinelearning_dimensionalityreduction.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/2.4_machinelearning_dimensionalityreduction.ipynb)
 
 ---
 ## Proyecto de Deep learning
