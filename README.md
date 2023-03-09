@@ -45,6 +45,11 @@ Este curso de *Deep Learning* se enfoca en proporcionar a los estudiantes una co
 			-  Reducción de la dimensionalidad y aprendizaje de la representación [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/2.4_machinelearning_dimensionalityreduction.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/2.4_machinelearning_dimensionalityreduction.ipynb)
 
+5. **Redes neuronales y Deep Learning** [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/08_dl_deeplearning.pdf)
+		* IPython Notebooks:
+			- Introducción al Aprendizaje profundo [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.1_deepleaningintroduction_dnn.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.1_deepleaningintroduction_dnn.ipynb)
+
 ---
 ## Proyecto de Deep learning
 Ejecutar un proyecto de Deep learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/deeplearning/raw/master/homeworks/dl_proyecto.pdf).
