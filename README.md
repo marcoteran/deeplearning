@@ -55,6 +55,7 @@ Este curso de *Deep Learning* se enfoca en proporcionar a los estudiantes una co
 ## Proyecto de Deep learning
 Ejecutar un proyecto de Deep learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/deeplearning/raw/master/homeworks/dl_proyecto.pdf).
 * Primera entrega <sub>(**Deadline:** 25/02/2023)</sub>
+* Segunda entrega <sub>(**Deadline:** 12/03/2023)</sub>
 <!--* Primera entrega <sub>(**Deadline:** 16/03/2021->**23/03/2021** (Extended))</sub>
 * Primera y segunda entrega <sub>(**Deadline:** 08/04/2021** (Extended))</sub>-->
 
