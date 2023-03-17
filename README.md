@@ -59,7 +59,6 @@ Este curso de *Deep Learning* se enfoca en proporcionar a los estudiantes una co
 				- Redes neuronales convolucionales [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb)
 				[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb)
 				<sub>**(Solución)**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn_SOL_.ipynb)
-				
 				- *Data Augmentation* y *Transfer Learning* [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.4_deeplearning_dataaugmentationandtransferlearning.ipynb)
 				[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.4_deeplearning_dataaugmentationandtransferlearning.ipynb)
 				<sub>**(Solución)**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.4_deeplearning_dataaugmentationandtransferlearning_SOL.ipynb)
