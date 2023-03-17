@@ -56,9 +56,10 @@ Este curso de *Deep Learning* se enfoca en proporcionar a los estudiantes una co
 	* Redes neuronales convolucionales [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/10_dl_cnn.pdf)
 	* Transferencia de aprendizaje [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/11_dl_dataaugmentationandtransferlearning.pdf)
 		* IPython Notebooks:
-				- Redes neuronales convolucionales [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn_ORG.ipynb)
-				[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn_ORG.ipynb)
-				[![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb)
+				- Redes neuronales convolucionales [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb)
+				[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb)
+				**(Solución)**
+				[![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.3.3_deeplearning_cnnanddataaugmentationandtransferlearning.ipynb)
 
 ---
 ## Proyecto de Deep learning
