@@ -29,7 +29,7 @@ Este curso de *Deep Learning* se enfoca en proporcionar a los estudiantes una co
 			- Exploración de los datos [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/1.2_machinelearning_imbalanceddata.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/1.2_machinelearning_imbalanceddata.ipynb)
 
-4. **Métodos modernos de Machine Lerning**
+4. **Métodos modernos de Machine Learning**
 	* Máquinas de vectores de soporte y selección de modelos [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/04_dl_svmandmodelselection.pdf)
 		* IPython Notebooks:
 			- SVM y selección de modelos [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/2.1_machinelearning_svm_modelselection.ipynb)
@@ -56,8 +56,16 @@ Este curso de *Deep Learning* se enfoca en proporcionar a los estudiantes una co
 	* Redes neuronales convolucionales [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/10_dl_cnn.pdf)
 	* Transferencia de aprendizaje [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/11_dl_dataaugmentationandtransferlearning.pdf)
 		* IPython Notebooks:
-			- Redes neuronales convolucionales [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) <sub>**(Solución)**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn_SOL_.ipynb)
+			- Redes neuronales convolucionales [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) <sub>**(Solución)**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn_SOL.ipynb)
 			- *Data Augmentation* y *Transfer Learning* [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.4_deeplearning_dataaugmentationandtransferlearning.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.4_deeplearning_dataaugmentationandtransferlearning.ipynb) <sub>**(Solución)**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.4_deeplearning_dataaugmentationandtransferlearning_SOL.ipynb)
+7. **Redes neuronales recurrentes (RNN)**
+	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/12_dl_recurrentneuralnetwork.pdf)
+		* IPython Notebooks:
+			- Redes neuronales recurrentes [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.5_deeplearning_recurrentneuralnetworks.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.5_deeplearning_recurrentneuralnetworks.ipynb)
+			- Series de tiempo [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.6_deeplearning_timeseries.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.6_deeplearning_timeseries.ipynb)
+
+8. **Resumen**
+	* Descargar presentación [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/13_dl_summary.pdf)
 
 ---
 ## Proyecto de Deep learning
